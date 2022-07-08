@@ -1,7 +1,7 @@
 ![MasterHead](https://qph.cf2.quoracdn.net/main-qimg-fa7b4bdc3b2f73e749e5c2c646d4ae13)
 <h1 align="center">Hi 👋, I'm Sahil</h1>
 <h3 align="center">A passionate programmer</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/12e0d68f4910f6b0bb4358a6e600ddda201427e01ed1bcf264258900109ea9c6/68747470733a2f2f696d6775722e636f6d2f5a396e317935532e676966">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srb003&label=Profile%20views&color=0e75b6&style=flat" alt="srb003" /> </p>
 
